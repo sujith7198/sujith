@@ -1,0 +1,65 @@
+.box{
+    width: 40%;
+    height: 650px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 150px;
+    margin-left: 400px;
+    border-style: none;
+    background-color: lightgray;
+}
+.outer{
+    width: 40%;
+    height: 700px;
+    border-style: none;
+margin: auto;
+margin-top: 20px;
+border-radius: 5px;
+background-color: blueviolet;
+box-shadow:  10px 10px 5px lightblue;
+}
+.box1{
+    width: 85%;
+    height: 750px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 800px;
+    margin-left: 90px;
+    border-style: none;
+    background-color: white;
+}
+.hed{
+    width: 90%;
+    height: 70px;
+    border-style: none;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.form-feild input{
+    width: 90%;
+    height:30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    /* border: 2px red solid; */
+    outline: 0;
+    border-radius: 10px;
+}
+#test,#teste,#testp,#testc,#testm,#testd{
+    color: red;
+}
+
+button{
+    width: 90%;
+    height: 30px;
+    color:white;
+    background-color: blue;
+    margin: 10px;
+    cursor: pointer;  
+}
+#checkbox{
+    width: 30px;
+    height: 20px;
+}
